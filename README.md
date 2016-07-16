@@ -1,4 +1,5 @@
 # jupyter-sprints
-Resources for running a sprint
+
+Site: http://jupyter.org/scipy-sprint/
 
 
